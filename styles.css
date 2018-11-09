@@ -3,8 +3,14 @@ body {
 }
 
 h1  {
-    font: Helvetica;
     font-size: 65px;
+    font-weight: 700;
+    color: rgb(34,34,34);
+}
+
+h2  {
+    font: Helvetica;
+    font-size: 40px;
     font-weight: 700;
     color: rgb(34,34,34);
 }
@@ -24,9 +30,15 @@ a   {
 .wrapper    {
     max-width: 864px;
     width: 100%;
-    padding-top: 1em;
+    padding-bottom: 1em;
     padding-left: 1em;
     padding-right: 1em;
     margin-right: auto;
     margin-left: auto;
+    font-family: 'Muli', sans-serif;
+}
+
+.links a {
+    margin-right: 8px;
+    margin-left: 8px;
 }
