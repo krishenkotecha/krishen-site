@@ -29,11 +29,8 @@ a   {
 
 .wrapper    {
     max-width: 864px;
-    height: 98%;
-    width: 98%;
-    padding-bottom: 1em;
-    padding-left: 1em;
-    padding-right: 1em;
+    height: 80%;
+    width: 80%;
     margin-top: 10px;
     margin-bottom: auto;
     margin-right: auto;
