@@ -1,0 +1,22 @@
+body {
+    background-color: #fafafa;>
+}
+
+h1  {
+    font: Helvetica;
+    font-size: 65px;
+    font-weight: 700;
+    color: rgb(34,34,34);
+}
+
+h3  {
+    font: Helvetica;
+    font-size: 28px;
+    font-weight: 700;
+    color: rgb(34,34,34);
+}
+
+a   {
+    
+    color: black;
+}
